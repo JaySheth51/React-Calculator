@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.calculator-body {
+  max-width: 400px;
+  margin: auto;
+  border: 1px solid #000;
+}
+.App-header {
+  background-color: #00040c;
+  height: 10vh;
+  text-align: center;
+  color: white;
+}
+
+.calculator button{
+  font-size: 1.5rem;
+  height: 60px;
+  background-color: #fff !important;
+  color: #000;
+  border: 1px solid #cfcfcf;
+}
+
+.calculator input{
+  font-size: 1.5rem;
+  color: #00040c;
+  text-align: right;
+  height: 50px;
+  background-color: #cfcfcf;
+  border: none;
+}
+
